@@ -1,0 +1,7 @@
+**/__pycache__/**
+my_awesome_model
+.venv
+.pytest_cache
+videos
+log.csv
+flagged
